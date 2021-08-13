@@ -7,5 +7,5 @@
 - 💬 Ask me about Python/Django and anything technical writing related.
 - 📫 How to reach me: anitatom20@gmail.com
 - 😄 Pronouns: Her/she
-- ⚡ Fun fact: I can talking the whole day about Hiphop/rap
+- ⚡ Fun fact: I can spend the whole day talking about Hiphop/rap
 
